@@ -1,7 +1,7 @@
-<div align="right">
-<a href="https://startupcampus.id/" target="_blank"><img src="https://startupcampus.id/_next/image?url=%2Fimages%2FSC-Logo-Full.png&w=128&q=75" alt="StartUp Campus" style="width: 101px; height: 33.14px;" width="101" height="33.14" /></a>
+<div align="center" display: inline-block>
+<a href="https://startupcampus.id/" target="_blank"><img src="https://startupcampus.id/_next/image?url=%2Fimages%2FSC-Logo-Full.png&w=128&q=75" alt="StartUp Campus" style="width: 101px; height: 33.14px;" width="101" height="33.14" align="left"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://startupcampus.id/" target="_blank"><img src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white.d216d864.webp" alt="Kampus merdeka" style="width: 76px; height: 40px;" width="76" height="40" /></a>    
+<a href="https://startupcampus.id/" target="_blank"><img src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white.d216d864.webp" alt="Kampus merdeka" style="width: 76px; height: 40px;" width="76" height="40" align="right"/></a>    
 </div>
 <h1 align="center"> 
     Final Project Data Science Track
