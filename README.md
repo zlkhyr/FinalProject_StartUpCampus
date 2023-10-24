@@ -17,7 +17,7 @@
 - [Nama](#Nama)
 
 ### Dataset:
-- [Click Here](https://drive.google.com/drive/folders/1qgUMnfjYwe57u1xMyOU4MxJ7AYRkddWl?usp=share_link)
+- [Google Drive](https://drive.google.com/drive/folders/1qgUMnfjYwe57u1xMyOU4MxJ7AYRkddWl?usp=share_link)
 ### Judul Final Project:
 <h1 align="center">
   Customer Churn Prediction and Retention Strategy
