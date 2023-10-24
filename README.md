@@ -23,6 +23,6 @@
   Customer Churn Prediction and Retention Strategy
 </h1>
 <img alt="Awesome GitHub Profile Readme" src="https://www.touchpoint.com/wp-content/uploads/2023/02/5.-Customer-churn-article.png" style="border-radius: 10px;"></img>
-<p>
-  Project ini bertujuan untuk memprediksi churn pelanggan untuk platform e-commerce menggunakan metode yang disediakan kumpulan data. Prediksi churn melibatkan identifikasi pelanggan yang kemungkinan besar akan berhenti menggunakan platform dalam waktu dekat. Tujuannya adalah untuk membangun model klasifikasi yang dapat mengklasifikasikan pelanggan sebagai "churn" atau "non-churn" berdasarkan perilaku dan riwayat transaksinya.
+<p align="justify">
+  &nbsp;&nbsp; Project ini bertujuan untuk memprediksi churn pelanggan untuk platform e-commerce menggunakan metode yang disediakan kumpulan data. Prediksi churn melibatkan identifikasi pelanggan yang kemungkinan besar akan berhenti menggunakan platform dalam waktu dekat. Tujuannya adalah untuk membangun model klasifikasi yang dapat mengklasifikasikan pelanggan sebagai "churn" atau "non-churn" berdasarkan perilaku dan riwayat transaksinya.
 </p>
