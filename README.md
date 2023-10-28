@@ -18,7 +18,7 @@
 
 ### Dataset:
 - [Google Drive](https://drive.google.com/drive/folders/1qgUMnfjYwe57u1xMyOU4MxJ7AYRkddWl?usp=share_link)
-### Judul Final Project:
+### Final Project:
 <h1 align="center">
   Customer Churn Prediction and Retention Strategy
 </h1>
@@ -26,3 +26,15 @@
 <p align="justify">
   &nbsp;&nbsp; Project ini bertujuan untuk memprediksi churn pelanggan untuk platform e-commerce menggunakan metode yang disediakan kumpulan data. Prediksi churn melibatkan identifikasi pelanggan yang kemungkinan besar akan berhenti menggunakan platform dalam waktu dekat. Tujuannya adalah untuk membangun model klasifikasi yang dapat mengklasifikasikan pelanggan sebagai "churn" atau "non-churn" berdasarkan perilaku dan riwayat transaksinya.
 </p>
+<h1 align="center">
+  Business Objectives:
+</h1>
+<ol>
+    <li><h2>Reduce Churn Rate:</h2></li>
+        <p align="justify">
+            Tujuan utamanya adalah mengurangi tingkat churn dengan secara proaktif mengidentifikasi pelanggan yang berisiko keluar dan menerapkan strategi retensi.
+        </p>
+    <li><h2>Customer Segmentation:</h2></li>
+    <li><h2>Optimize Marketing:</h2></li>
+    <li><h2>Improve Customer Experience:</h2></li>
+</ol>
