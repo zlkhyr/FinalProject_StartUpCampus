@@ -10,11 +10,11 @@
 
 ### Anggota:
 - [Zul Akhyar](https://github.com/zlkhyr)
-- [Nama](#Nama)
-- [Nama](#Nama)
-- [Nama](#Nama)
-- [Nama](#Nama)
-- [Nama](#Nama)
+- [Febri Nur Cahyo Nugroho](#Nama)
+- [Dzikri Fandi Setiowibowo](#Nama)
+- [Roy Bagus Sanjaya](#Nama)
+- [Relini Grace Sinaga](#Nama)
+- [Nabila Rahmadhinta](#Nama)
 
 ### Dataset:
 - [Google Drive](https://drive.google.com/drive/folders/1qgUMnfjYwe57u1xMyOU4MxJ7AYRkddWl?usp=share_link)
@@ -35,6 +35,15 @@
             Tujuan utamanya adalah mengurangi tingkat churn dengan secara proaktif mengidentifikasi pelanggan yang berisiko keluar dan menerapkan strategi retensi.
         </p>
     <li><h2>Customer Segmentation:</h2></li>
+        <p align="justify">
+            Segmentasikan pelanggan ke dalam kelompok berbeda berdasarkan perilaku dan preferensi mereka untuk menyesuaikan strategi retensi dengan lebih efektif
+        </p>
     <li><h2>Optimize Marketing:</h2></li>
+        <p align="justify">
+            Optimalkan upaya pemasaran dengan berfokus pada mempertahankan pelanggan bernilai tinggi dan mengurangi pengeluaran yang tidak perlu pada pelanggan bernilai
+        </p>
     <li><h2>Improve Customer Experience:</h2></li>
+        <p align="justify">
+            Tingkatkan pengalaman pelanggan secara keseluruhan dengan mengatasi permasalahan yang dihadapi oleh pelanggan yang churn yang berisiko tinggi.
+        </p>
 </ol>
